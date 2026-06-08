@@ -1,5 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-
+## NAME: PRAVEEN S
+## REG NO: 2305001027
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
@@ -79,6 +80,7 @@ int main() {
 
 ## Output:
 
+<img width="873" height="348" alt="image" src="https://github.com/user-attachments/assets/7577d12f-e586-4c23-81a5-987ed94c2788" />
 
 ## Result:
 The program is executed successfully.
